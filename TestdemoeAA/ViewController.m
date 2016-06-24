@@ -11,6 +11,8 @@
 @interface ViewController (){
     
     int b;
+    
+    NSInteger num;
 }
 
 @end
