@@ -9,6 +9,9 @@
 #import "ViewController.h"
 
 @interface ViewController ()
+{
+    int a;
+}
 
 @end
 
@@ -19,6 +22,8 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"11131313");
+    
+    
     
 }
 
